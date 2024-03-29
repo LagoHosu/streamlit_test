@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+load_iris
+Image
