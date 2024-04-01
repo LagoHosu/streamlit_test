@@ -67,7 +67,7 @@ tab1.subheader('[Selected data table]')
 tab2.subheader('[Raw data table]')
 tab2.dataframe(df)
 
-test_img = Image.open('C:/Users/hsshi/Downloads/fluffy.jpg')
+test_img = Image.open('./images/행운_P.png')
 tab2.image(test_img)
 
 
